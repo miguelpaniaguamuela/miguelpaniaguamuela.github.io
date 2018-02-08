@@ -1,5 +1,6 @@
 4
-3
+4
 oooo
+ xx
 oooo
-xxxx
+ oo
